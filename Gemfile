@@ -64,3 +64,5 @@ group :development do
   # gem "spring"
 end
 
+gem 'omniauth-timecrowd', github: 'ruffnote/omniauth-timecrowd'
+
